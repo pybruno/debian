@@ -1,1 +1,3 @@
 # debian conf
+## bashrc
+## systctl
